@@ -15,7 +15,7 @@ To run this project locally or on a Raspberry Pi, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/vitor29narciso/idealista-bot.git
+git clone https://https://github.com/alexalmeida24/idealista-bot-Alex.git
 cd idealista-bot
 ```
 
